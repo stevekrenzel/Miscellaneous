@@ -59,7 +59,7 @@ The algorithm works as follows:
 
     Since they were equal, we increment and decrement the pointers again and
     see that they are still equal. Our new longest palindrome centered at
-    position 3 is now 'acece'.
+    position 3 is now 'aceca'.
 
     i.e.    lower
               |
